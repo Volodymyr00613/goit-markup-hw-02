@@ -1,3 +1,57 @@
 body {
     font-style: "Roboto", "Raleway", sans-serif;
+    margin: 0;
+}body
+
+.logo {
+ width: 115px;
+height: 24px;  
+display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 0px;
+}
+
+.menu {
+    width: 261px;
+        height: 24px;
+        display: flex;
+            align-items: flex-start;
+            justify-content: flex-start;
+            flex-direction: row;
+            gap: 40px;
+}
+
+.menu-list .menu-list-studio {
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.menu-list .menu-list-portfolio {
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.menu-list .menu-list-contacts {
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
 }

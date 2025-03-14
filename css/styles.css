@@ -40,3 +40,22 @@ address {
 .contacts-list:focus {
     color: #404bbf
 }
+
+.form {
+    background: #2e2f42;
+}
+
+.form-title {
+    font: 700 56px / 1.07 "Roboto", sans-serif;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #ffffff;
+}
+
+.form-button {
+    background: #4d5ae5;
+    font: 500 16px / 1.5 "Roboto", sans-serif;
+        letter-spacing: 0.04em;
+        color: #fff;
+        cursor: pointer;
+}

@@ -94,14 +94,14 @@ color: #2e2f42;
 text-transform: capitalize;
 }
 
-.team-list .team-list-title {
+.team-list-title {
     font: 500 20px / 1.2 "Roboto", sans-serif;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
 }
 
-.team-list .team-list-text {
+.team-list-text {
     font: 400 16px / 1.5 "Roboto", sans-serif;
         letter-spacing: 0.02em;
         text-align: center;

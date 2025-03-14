@@ -59,3 +59,23 @@ address {
         color: #fff;
         cursor: pointer;
 }
+
+.form-button:hover,
+.form-button:focus {
+    background-color: #404BBF
+}
+
+.skills-main-title {
+    font: 500 20px / 1.2 "Roboto", sans-serif;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.skills-text {
+    line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+
+    

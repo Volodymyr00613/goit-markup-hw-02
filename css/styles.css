@@ -86,6 +86,13 @@ color: #2e2f42;
     background: #ffffff;
 }
 
+.team-title {
+    font: 700 36px / 1.11111 "Roboto", sans-serif;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
 .team-list-title {
     font: 500 20px / 1.2 "Roboto", sans-serif;
         letter-spacing: 0.02em;

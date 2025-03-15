@@ -131,3 +131,13 @@ text-transform: capitalize;
 letter-spacing: 0.02em;
 color: #434455;
 }
+
+.footer {
+    background: #2e2f42;
+}
+
+.footer .footer-text {
+    font: 400 16px / 1.5 "Roboto", sans-serif;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
+}
